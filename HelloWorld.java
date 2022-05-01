@@ -1,3 +1,5 @@
 public class HelloWorld {
-  // Main Method Goes here
+  public static void main(String[] args) {
+    System.out.println("This is my video for CSE15L!");
+  }
 }
